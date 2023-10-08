@@ -1,0 +1,45 @@
+{
+  "images" : [
+    {
+      "filename" : "chevron.right.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right"
+    },
+    {
+      "filename" : "chevron.left.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left"
+    },
+    {
+      "filename" : "chevron.right 1.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right",
+      "locale" : "en"
+    },
+    {
+      "filename" : "chevron.left 1.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "locale" : "en"
+    },
+    {
+      "filename" : "chevron.right 2.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right",
+      "locale" : "fa-IR"
+    },
+    {
+      "filename" : "chevron.left 2.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "locale" : "fa-IR"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}

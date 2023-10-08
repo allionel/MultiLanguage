@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Bilingual
+
+  Created by Alireza Sotoudeh on 10/3/23.
+  
+*/
+
+"first.page.title" = "به اپلیکیشن ما خوش آمدید";
+"next.button" = "صفحه بعد";
+"credit.card.section.description" = "این یک کارت اعتباری است";
+
+"second.page.title" = "این صفحه دوم است";
+"change.language" = "تغییر زبان";
+
+"confirmation.dialig.title" = "زبان مورد نظر خود را انتخاب کنید";
+"select.persian.title" = "فارسی";
+"select.english.title" = "انگلیسی (English)";
+
+"navigation.back.title" = "بازگشت";
+"left.aligned.title" = "این یک متن چپ چین شده است";
+"move.forward.title" = "این حرکت به جلو است";

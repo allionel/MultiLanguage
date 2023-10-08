@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Bilingual
+
+  Created by Alireza Sotoudeh on 10/3/23.
+  
+*/
+
+"first.page.title" = "Welcome to our App";
+"next.button" = "Go to next page";
+"credit.card.section.description" = "This is a credit card";
+
+"second.page.title" = "This is second page";
+"change.language" = "Change Language";
+
+"confirmation.dialig.title" = "Select Your Language";
+"select.persian.title" = "Persian (فارسی)";
+"select.english.title" = "English";
+
+
+"navigation.back.title" = "Back";
+"left.aligned.title" = "This is left-aligned text";
+"move.forward.title" = "This is moving forward";
