@@ -27,7 +27,7 @@ struct SecondPage: View {
             Spacer()
         }
         .confirmationDialog(.confirmationDialigTitle, isPresented: $showDialog) {
-            ForEach.init(Language.allCases, id: \.identifier) { language in
+            ForEach(Language.allCases, id: \.identifier) { language in
                 Button(language.localizedTitle) {
                     localization.changeLanguage(to: language)
                     showDialog = false

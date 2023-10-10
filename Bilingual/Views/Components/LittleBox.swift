@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct LittleBox<Content: View>: View {
-    @ViewBuilder var contet: Content
+    @ViewBuilder let contet: Content
     
     private let lineWidth: CGFloat = 2
     private let internalPadding: CGFloat = 8
